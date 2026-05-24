@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beautiful-soul-mate/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Beautiful Soul Mate](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beautiful-soul-mate/) |
+| **Get License** | [Official Music Licensing for Beautiful Soul Mate](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beautiful-soul-mate/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9283b1bdfb934a389d8dca3d17f92f47b6de9d1376ed6c15d278d4a0540c4b1a` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
