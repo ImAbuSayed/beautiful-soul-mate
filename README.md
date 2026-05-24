@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beautiful-soul-mate/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Beautiful Soul Mate](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beautiful-soul-mate/) |
+| **Get License** | [Commercial Licensing for Beautiful Soul Mate](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beautiful-soul-mate/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 98fdfe5eb96a7d4df71b8756bcd3505dea583e97
+> I can feel the fire in the shadows of the room
+> Lost inside the magic of your midnight perfume
+> Every little look is pulling me a little closer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
